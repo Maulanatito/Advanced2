@@ -1,10 +1,11 @@
-Judul Aplikasi : AdvancedWidget2
+# AdvancedWidget2
 
-Screenshoot Aplikasi :  ![](http://i1376.photobucket.com/albums/ah35/bryanbihza/Screenshot%2020_zpsvldc8mpm.png)
-                        ![](http://i1376.photobucket.com/albums/ah35/bryanbihza/Screenshot%2021_zpso6xak85j.png)
+Nama : Tito Maulana <br>
+Kelas : XI RPL 5 <br>
+No Absen : 35 <br>
+NIS : 4843/1562.070 <br>
+Sekolah : SMK Telkom Malang <br>
 
-Identitas : - Bryan BIhza Marsono 
-            - XIRPL 5 
-            - 08 
-            - 4689/1408.070 
-            - SMK Telkom Malang
+Screenshot 
+![](http://i1376.photobucket.com/albums/ah35/bryanbihza/Screenshot%2020_zpsvldc8mpm.png)<br>
+![](http://i1376.photobucket.com/albums/ah35/bryanbihza/Screenshot%2021_zpso6xak85j.png)
